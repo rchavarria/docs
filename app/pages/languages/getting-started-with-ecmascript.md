@@ -7,9 +7,9 @@ ordinal: 2300
 
 Install [Node.js](http://nodejs.org):
 
-- **Windows and OS X users**: can be installed
+* **Windows and OS X users**: can install it
 [via package manager](https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager)
-- **Linux users**: [Joyent maintains a document][linstall] that details how to get
+* **Linux users**: [Joyent maintains a document][linstall] that details how to get
 Node.js installed for a wide range of distributions and package managers.
 
 [linstall]: https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager
@@ -41,10 +41,10 @@ $ export PATH=/usr/local/share/npm/bin:$PATH
 
 Each assignment needs some tools to run the tests:
 
-- [Traceur](https://github.com/google/traceur-compiler): to transpile ECMAScript
+* [Traceur](https://github.com/google/traceur-compiler): to transpile ECMAScript
 6 code to ECMAScript 5
-- [Jasmine](http://jasmine.github.io): to run tests
-- [Gulp](http://gulpjs.com): to automate everything, you don't need to worry
+* [Jasmine](http://jasmine.github.io): to run tests
+* [Gulp](http://gulpjs.com): to automate everything, you don't need to worry
 about anything
 
 They can be installed running this command within each assignment directory:
@@ -85,11 +85,12 @@ directory for the first exercises.
 
 ## Recommended Learning Resources
 
-* [Exploring ES6](https://leanpub.com/exploring-es6/read)
-* [ES6 Katas](http://es6katas.org)
-* [Traceur](https://github.com/google/traceur-compiler)
+* [Exploring ES6](https://leanpub.com/exploring-es6/read) book, by Axel Rauschmayer
+* [ES6 Katas](http://es6katas.org) website
+* [Traceur compiler](https://github.com/google/traceur-compiler)
 
 ## Recommended References
 
+* [ECMAScript 2015 Language Specification](http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf) (pdf)
 * [Mozilla JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 
